@@ -1,0 +1,81 @@
+export default {
+        data:{
+            "list": [
+                {
+                    "img": "https://img1.kuwo.cn/star/userpl2015/10/13/1649904612537_132026710_500.jpg",
+                    "uname": "酷小编",
+                    "img700": "https://img1.kuwo.cn/star/userpl2015/10/13/1649904612537_132026710_700.jpg",
+                    "img300": "https://img1.kuwo.cn/star/userpl2015/10/13/1649904612537_132026710b.jpg",
+                    "userName": "酷小编",
+                    "img500": "https://img1.kuwo.cn/star/userpl2015/10/13/1649904612537_132026710_500.jpg",
+                    "total": 3757,
+                    "name": "每日最新单曲推荐",
+                    "listencnt": 203846544,
+                    "id": 1082685104,
+                    "musicList": [],
+                    "desc": "",
+                    "info": "官方，每日最新单曲推荐"
+                },
+                {
+                    "img": "https://img1.kuwo.cn/star/userpl2015/7/28/1653630892172_157194307_500.jpg",
+                    "uname": "柒拾",
+                    "img700": "https://img1.kuwo.cn/star/userpl2015/7/28/1653630892172_157194307_700.jpg",
+                    "img300": "https://img1.kuwo.cn/star/userpl2015/7/28/1653630892172_157194307b.jpg",
+                    "userName": "柒拾",
+                    "img500": "https://img1.kuwo.cn/star/userpl2015/7/28/1653630892172_157194307_500.jpg",
+                    "total": 29,
+                    "name": "【伤感情歌】我们终究还是要错过了",
+                    "listencnt": 4317,
+                    "id": 3358064399,
+                    "musicList": [],
+                    "desc": "",
+                    "info": "本歌单收录各种伤感催泪歌曲，欢迎大家收藏收听！"
+                },
+                {
+                    "img": "https://img1.kuwo.cn/star/userpl2015/84/79/1655781192854_505434184_500.jpg",
+                    "uname": "TIM的CHARLOTTE祺",
+                    "img700": "https://img1.kuwo.cn/star/userpl2015/84/79/1655781192854_505434184_700.jpg",
+                    "img300": "https://img1.kuwo.cn/star/userpl2015/84/79/1655781192854_505434184b.jpg",
+                    "userName": "TIM的CHARLOTTE祺",
+                    "img500": "https://img1.kuwo.cn/star/userpl2015/84/79/1655781192854_505434184_500.jpg",
+                    "total": 25,
+                    "name": "欧美小众｜收集世间所有璀璨幸福",
+                    "listencnt": 56859,
+                    "id": 3114084462,
+                    "musicList": [],
+                    "desc": "",
+                    "info": "图片来源网络 我们匆匆地告别，⾛向各⾃的远⽅，没有语⾔，更没有眼泪，只有永恒的思念和祝福，在彼此的⼼中发出深沉的共鸣。 ⼀个⼈总要⾛陌⽣的路，看陌⽣的风景，听陌⽣的歌，然后在某个不经意的瞬间，你会发现，原本费尽⼼机想要忘记的事情真的就这么忘记了……一一CHARLOTTE 悠闲的午后也应该听放松的歌啊！希望大家快乐(失踪太久了重新上线啦)"
+                },
+                {
+                    "img": "https://img1.kuwo.cn/star/userpl2015/9/38/1653536860111_185212109_500.jpg",
+                    "uname": "玉一",
+                    "img700": "https://img1.kuwo.cn/star/userpl2015/9/38/1653536860111_185212109_700.jpg",
+                    "img300": "https://img1.kuwo.cn/star/userpl2015/9/38/1653536860111_185212109b.jpg",
+                    "userName": "玉一",
+                    "img500": "https://img1.kuwo.cn/star/userpl2015/9/38/1653536860111_185212109_500.jpg",
+                    "total": 24,
+                    "name": "伤感往事：原来没有争吵也能走到散场",
+                    "listencnt": 873,
+                    "id": 3357400258,
+                    "musicList": [],
+                    "desc": "",
+                    "info": "本歌单收藏了一些好听的伤感歌曲，欢迎大家倾听收藏哦！"
+                },
+                {
+                    "img": "https://img1.kuwo.cn/star/userpl2015/1/95/1653546224319_539539601_500.jpg",
+                    "uname": "橘色半夏",
+                    "img700": "https://img1.kuwo.cn/star/userpl2015/1/95/1653546224319_539539601_700.jpg",
+                    "img300": "https://img1.kuwo.cn/star/userpl2015/1/95/1653546224319_539539601b.jpg",
+                    "userName": "橘色半夏",
+                    "img500": "https://img1.kuwo.cn/star/userpl2015/1/95/1653546224319_539539601_500.jpg",
+                    "total": 23,
+                    "name": "青春纪念册：时光可否停留在此刻",
+                    "listencnt": 31911,
+                    "id": 3357444474,
+                    "musicList": [],
+                    "desc": "",
+                    "info": "回忆就像播放着的电影，一幕幕在眼前出神入化。回忆就像游览画展，一幅画还没看完、没捉摸透，另一幅又映入眼帘。"
+                },
+            ]
+        },
+    }
